@@ -20,8 +20,6 @@ Each frame, a new particle is added to the canvas.
 
 ## ⚙️ The System
 
-Like the previous study, the key idea is accumulation.
-
 The `draw()` loop runs continuously, and each iteration adds one new particle:
 
 ```python
