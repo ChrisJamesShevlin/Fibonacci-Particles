@@ -161,22 +161,7 @@ Yet the result feels organic.
 
 It demonstrates that:
 
-> complexity can emerge from a single evolving parameter
-
----
-
-## 🔭 Next Step
-
-Right now, the system generates a single spiral from a fixed center.
-
-Next, I want to extend this into a multi-agent system:
-
-* multiple spirals growing simultaneously
-* collision detection between particles
-* stopping growth when spirals intersect
-* spawning new spirals in empty space
-
-The goal is to move from a single structure to a **self-organising system of competing growth patterns**.
+> complexity can emerge from a single evolving parameter.
 
 ---
 
